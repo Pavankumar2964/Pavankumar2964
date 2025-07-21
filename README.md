@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm Pavan, a passionate and detail-oriented Frontend Developer with a strong foundation in building responsive and user-friendly web interfaces
+I'm a passionate **Frontend Developer** focused on building responsive, accessible, and user-friendly web interfaces.  
+I love turning designs into interactive web apps using HTML, CSS, and JavaScript.
+
 
 <!--
 **Pavankumar2964/Pavankumar2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
