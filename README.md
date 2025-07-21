@@ -15,6 +15,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 **📫 Connect with Me**
  [Linkedin]:-(https://www.linkedin.com/in/pavan-kumar2907/)
+ [Github]  :-(https://github.com/Pavankumar2964)
+ [Phone]   :-(919347157442)
+ [Email]   :-(Pavankumar29ctr@gmail.com)
 ______________________________________________________________________________________________________________________
 <!--
 **Pavankumar2964/Pavankumar2964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
