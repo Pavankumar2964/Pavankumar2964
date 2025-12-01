@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a passionate **Frontend Developer** focused on building responsive, accessible, and user-friendly web interfaces.  
-I love turning designs into interactive web apps using HTML, CSS, JavaScript, React-js and Bootstrap
+I love turning designs into interactive web apps using HTML, CSS, JavaScript, React-js and Bootstrap.
 ______________________________________________________________________________________________________________________
 **🔧 Tech Stack**
 - 🌐 HTML5 | CSS3 | JavaScript (ES6+)|Bootstrap
