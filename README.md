@@ -9,7 +9,7 @@ ________________________________________________________________________________
 - 🎨 Responsive Design | Flexbox | Grid
 ______________________________________________________________________________________________________________________
 **🚀 Currently Learning**
-- React.js
+- React.js|
 - Responsive Web Design Best Practices.
 - Git/GitHub for open-source collaboration.
   
