@@ -11,7 +11,8 @@ ________________________________________________________________________________
 **🚀 Currently Learning**
 - React.js
 - Responsive Web Design Best Practices
-- Git/GitHub for open-source collaboration
+- Git/GitHub for open-source collaboration.
+  
 ______________________________________________________________________________________________________________________
 **📫 Connect with Me**
 
